@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static Constants.piFile;
 
 /**
  * This singleon class stores Pi's digits as array of bytes and provides digits bu position.
@@ -63,7 +62,7 @@ public class PiHolder {
         BufferedReader br = null;
         String line = "";
         try {
-            br = new BufferedReader(new FileReader(piFile));
+            br = new BufferedReader(new FileReader(Constants.piFile));
             while ((line = br.readLine()) != null && digits.size() < 10000000) {
 
                 String s = line.split(":")[0].replaceAll(" ", "");
@@ -73,7 +72,7 @@ public class PiHolder {
             }
 
         } catch (FileNotFoundException e) {
-            System.out.println("file: " + piFile + " not found!");
+            System.out.println("file: " + Constants.piFile + " not found!");
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();

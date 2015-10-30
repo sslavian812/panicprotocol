@@ -5,17 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8893411f-5807-474c-8c9a-85417a477de5" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\ByteUitls.java" afterPath="$PROJECT_DIR$/src/main/java/ByteUitls.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\ConfigurationManager.java" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationManager.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\Constants.java" afterPath="$PROJECT_DIR$/src/main/java/Constants.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\Message.java" afterPath="$PROJECT_DIR$/src/main/java/Message.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\Node.java" afterPath="$PROJECT_DIR$/src/main/java/Node.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\PiHolder.java" afterPath="$PROJECT_DIR$/src/main/java/PiHolder.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\StateEnum.java" afterPath="$PROJECT_DIR$/src/main/java/StateEnum.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\TCPMessage.java" afterPath="$PROJECT_DIR$/src/main/java/TCPMessage.java" />
-      <change type="MOVED" beforePath="C:\Users\viacheslav\panicProtocol\src\main\java\ru\ifmo\ctddev\shalamov\networks\TokenManager.java" afterPath="$PROJECT_DIR$/src/main/java/TokenManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\ByteUitls.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\ConfigurationManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\ConfigurationManager$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\ConfigurationManager$LazyHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\ConfigurationManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Main.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Message.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Node$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Node$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Node$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\Node.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\PiHolder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\PiHolder$LazyHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\PiHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\StateEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\TCPMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\viacheslav\panicProtocol\target\classes\ru\ifmo\ctddev\shalamov\networks\TokenManager.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PiHolder.java" afterPath="$PROJECT_DIR$/src/main/java/PiHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TokenManager.java" afterPath="$PROJECT_DIR$/src/main/java/TokenManager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="panicProtocol.iws" />
@@ -93,21 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ByteUitls.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ByteUitls.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ByteUitls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51342285">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TokenManager.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TokenManager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TokenManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.5961969">
+              <caret line="136" column="102" selection-start-line="136" selection-start-column="102" selection-end-line="136" selection-end-column="102" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,21 +138,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Constants.java">
+      <file leaf-file-name="Message.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Object.java">
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="500" column="22" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -163,13 +174,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/PiHolder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <caret line="74" column="59" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#1057#1058#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -222,6 +233,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/ifmo/ctddev/shalamov/networks/TokenManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/ifmo/ctddev/shalamov/networks/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/ByteUitls.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PiHolder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TokenManager.java" />
       </list>
     </option>
   </component>
@@ -681,12 +695,12 @@
       <updated>1445597316004</updated>
       <workItem from="1445597317739" duration="12633000" />
       <workItem from="1446105288419" duration="9643000" />
-      <workItem from="1446134479237" duration="21628000" />
+      <workItem from="1446134479237" duration="22087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43904000" />
+    <option name="totallyTimeSpent" value="44363000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -896,10 +910,10 @@
           <caret line="30" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -996,10 +1010,10 @@
           <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1059,39 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PiHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StateEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/stream/ReferencePipeline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1144,16 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TCPMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ConfigurationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1185,24 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TokenManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1210,6 +1163,14 @@
           <folding>
             <element signature="e#143#144#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,11 +1189,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TCPMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StateEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ByteUitls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51342285">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PiHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="59" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TokenManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5961969">
+          <caret line="136" column="102" selection-start-line="136" selection-start-column="102" selection-end-line="136" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

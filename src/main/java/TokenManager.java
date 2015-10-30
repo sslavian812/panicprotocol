@@ -1,11 +1,11 @@
+import com.sun.xml.internal.bind.v2.runtime.reflect.opt.Const;
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketTimeoutException;
 
-import static Constants.TCP_PORT;
-import static Constants.TICK;
 
 /**
  * TokenManager class handles all messages related to token.
@@ -32,8 +32,8 @@ public class TokenManager {
         this.nDigits = 0;
         hasToken = false;
         try {
-            serverSocket = new ServerSocket(TCP_PORT);
-            serverSocket.setSoTimeout(TICK);
+            serverSocket = new ServerSocket(Constants.TCP_PORT);
+            serverSocket.setSoTimeout(Constants.TICK);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -132,9 +132,9 @@ public class TokenManager {
                 }
 
                 System.out.println("Connecting to " + configurationManager.getNextAddress().getHostName() +
-                        " on port " + TCP_PORT);
+                        " on port " + Constants.TCP_PORT);
 
-                Socket client = new Socket(configurationManager.getNextAddress(), TCP_PORT);
+                Socket client = new Socket(configurationManager.getNextAddress(), Constants.TCP_PORT);
 
                 System.out.println("Just connected to " + client.getRemoteSocketAddress());
 

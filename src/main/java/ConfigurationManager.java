@@ -1,12 +1,7 @@
-package ru.ifmo.ctddev.shalamov.networks;
-
 import java.io.IOException;
 import java.net.*;
 import java.util.*;
 import java.util.stream.Collectors;
-
-import static ru.ifmo.ctddev.shalamov.networks.Constants.BROADCASTS_COUNT;
-import static ru.ifmo.ctddev.shalamov.networks.Constants.TICK;
 
 /**
  * ConfigurationManager class handles all the service
@@ -229,7 +224,7 @@ public class ConfigurationManager {
         Thread thread1 = new Thread(new Runnable() {
             @Override
             public void run() {
-                for (int k = 0; k < BROADCASTS_COUNT
+                for (int k = 0; k < Constants.BROADCASTS_COUNT
                         && !Thread.currentThread().isInterrupted(); ++k) {
                     sendBroadcastMessage(version);
                 }
@@ -256,9 +251,9 @@ public class ConfigurationManager {
         thread2.start();
 
         try {
-            thread1.join(TICK * 1000);
+            thread1.join(Constants.TICK * 1000);
             thread1.interrupt();
-            thread2.join(TICK * 1000);
+            thread2.join(Constants.TICK * 1000);
             thread2.interrupt();
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -275,7 +270,7 @@ public class ConfigurationManager {
             int first = updateNextAndPrev(neighbours);
             if (first == ByteUitls.bytesToInt(this.mac)) {
                 try {
-                    Thread.sleep(TICK * 1000);
+                    Thread.sleep(Constants.TICK * 1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

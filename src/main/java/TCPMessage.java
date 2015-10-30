@@ -1,5 +1,3 @@
-package ru.ifmo.ctddev.shalamov.networks;
-
 import java.io.IOException;
 import java.io.InputStream;
 

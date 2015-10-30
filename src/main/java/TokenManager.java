@@ -1,13 +1,11 @@
-package ru.ifmo.ctddev.shalamov.networks;
-
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketTimeoutException;
 
-import static ru.ifmo.ctddev.shalamov.networks.Constants.TCP_PORT;
-import static ru.ifmo.ctddev.shalamov.networks.Constants.TICK;
+import static Constants.TCP_PORT;
+import static Constants.TICK;
 
 /**
  * TokenManager class handles all messages related to token.

@@ -1,5 +1,3 @@
-package ru.ifmo.ctddev.shalamov.networks;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -7,7 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static ru.ifmo.ctddev.shalamov.networks.Constants.piFile;
+import static Constants.piFile;
 
 /**
  * This singleon class stores Pi's digits as array of bytes and provides digits bu position.

@@ -1,5 +1,3 @@
-package ru.ifmo.ctddev.shalamov.networks;
-
 import java.io.UnsupportedEncodingException;
 
 /**

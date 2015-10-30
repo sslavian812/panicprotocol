@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/ByteUitls.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ByteUitls.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ConfigurationManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/PiHolder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StateEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/TCPMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/TokenManager.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
